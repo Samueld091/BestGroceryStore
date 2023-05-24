@@ -1,0 +1,55 @@
+Number of items: 4
+
+
+Total cost: 1331
+
+
+Total tax: 87
+
+
+Cost + Tax: 1418
+
+
+     Best Grocery Store Ever
+     --------------------
+
+2.25 lbs. @ 3.99 /lb.
+Basmati Rice				8.98
+Wheat Baguette          	1.05
+White Baguette with
+Chocolate					1.95
+4 @ 3.99 /dz.
+Grade A Organic Eggs		1.33
+
+Tax							.87
+Total Cost					14.18
+
+Number of items: 6
+
+
+Total cost: 1192
+
+
+Total tax: 77
+
+
+Cost + Tax: 1269
+
+
+     Best Grocery Store Ever
+     --------------------
+
+Organic Baguette			1.45
+Wheat Baguette with
+Caramel						1.55
+1.33 lbs. @ .89 /lb.
+Indian Brown Rice			1.18
+4 @ 3.99 /dz.
+Grade B Egg					1.33
+1.50 lbs. @ 2.09 /lb.
+Arabic White Rice			3.14
+3.00 lbs. @ 1.09 /lb.
+Spanish Yellow Rice			3.27
+
+Tax							.77
+Total Cost					12.69
